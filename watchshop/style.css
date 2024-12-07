@@ -1,0 +1,33 @@
+h1{
+    border-bottom: 2px solid yellow;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 40px;
+    padding-bottom: 20px;
+    color: rgb(2, 139, 128);
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid lightgray;
+}
+.image{
+    width: 2000px;
+    height: 1000px;
+    margin-top: -1px;
+    margin-left: -1px;
+
+}
